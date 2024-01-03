@@ -1,6 +1,8 @@
 # File-Compressor
 This File Compressor is a Python-based application that utilizes Huffman coding for text compression. This tool provides an intuitive GUI built with Tkinter, enabling users to compress and decompress text files efficiently. The application uses a Huffman Tree data structure for encoding and decoding text, optimizing file sizes while maintaining data integrity.
+
 ![image](https://github.com/sravanthimurukonda/PyHuffman-Compressor/assets/113963634/e20bf6b1-1a5d-4842-9a84-fef73499b8e7)
+
 # Features
 - Text Compression: Utilizes Huffman coding for file compression.
 - Graphical User Interface (GUI): Built with Tkinter for a user-friendly experience.
